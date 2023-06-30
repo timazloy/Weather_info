@@ -20,3 +20,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+проект не закончен
